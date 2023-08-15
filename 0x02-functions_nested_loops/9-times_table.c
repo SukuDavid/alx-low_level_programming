@@ -12,7 +12,7 @@ for (r = 0; r <= 9; r++)
 {
 _putchar('0');
 _putchar(',');
-putchar(' ');
+_putchar(' ');
 for (c = 1; c <= 9; c++)
 {
 d = (r * c);
