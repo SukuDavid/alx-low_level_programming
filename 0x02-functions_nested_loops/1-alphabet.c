@@ -13,7 +13,3 @@ putchar('\n');
 c++;
 }
 }
-int main()
-{
-print_alphabet();
-}
