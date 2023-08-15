@@ -1,12 +1,10 @@
 #include "main.h"
-#include<stdio.h>
 /**
- * main - Entry point
+ * _putchar - Entry point
  * Return:0
  */
 
-int main(void)
+int _putchar(char c)
 {
-printf("_putchar\n");
-return (0);
+putchar(c);
 }
