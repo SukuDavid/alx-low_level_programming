@@ -11,11 +11,11 @@ while (a < 10)
 {
 while (c <= 'z')
 {
-putchar(c);
+_putchar(c);
 c++;
 }
 c = 'a';
 a++;
-putchar('\n');
+_putchar('\n');
 }
 }
