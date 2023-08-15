@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_aphabet_x10 - entry point
+ * print_alphabet_x10 - entry point
  * Description: function uses _putchar function to print
  */
 void print_alphabet_x10(void)
