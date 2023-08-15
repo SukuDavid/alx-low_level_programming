@@ -2,7 +2,6 @@
 #include "main.h"
 /**
  * print_alphabet - entry point
- * main - end point
  * Return:0
  */
 void print_alphabet(void)
@@ -14,9 +13,4 @@ putchar(c);
 putchar('\n');
 c++;
 }
-}
-int main(void)
-{
-print_alphabet();
-return (0);
 }
